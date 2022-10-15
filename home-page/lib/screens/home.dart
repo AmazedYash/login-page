@@ -23,7 +23,7 @@ class _HomeState extends State<Home> {
             floating: true,
             pinned: true,
             snap: false,
-            centerTitle: false,
+            centerTitle: true,
             backgroundColor: Colors.deepPurple,
             title: Text('OLX'),
             actions: [
