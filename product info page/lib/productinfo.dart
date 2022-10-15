@@ -26,7 +26,7 @@ class ProductInfo extends StatelessWidget {
                   autoPlay: true,
                   height: 400,
                   aspectRatio: 2.0,
-                  enlargeCenterPage: true,
+                  enlargeCenterPage: false,
                 ),
                 itemCount: 5,
                 itemBuilder:
