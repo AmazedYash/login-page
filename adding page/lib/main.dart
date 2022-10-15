@@ -34,7 +34,7 @@ class MyApp extends StatelessWidget {
                 child: Stack(
                   children: <Widget>[
                     Container(
-                      padding: EdgeInsets.fromLTRB(20, 110, 0, 0),
+                      padding: EdgeInsets.fromLTRB(30, 100, 100, 10),
                       child: Text('Add product',
                         style: TextStyle(
                           color: Colors.blueAccent,
